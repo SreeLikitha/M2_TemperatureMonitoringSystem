@@ -1,9 +1,9 @@
 /**
  * @file activity1.c
- * @author Naresh
+ * @author Sree Likitha
  * @brief 
  * @version 0.1
- * @date 2022-03-08
+ * @date 2022-04-19
  * 
  * @copyright Copyright (c) 2022
  * 
