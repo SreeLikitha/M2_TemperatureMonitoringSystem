@@ -5,9 +5,11 @@
 ---|
 |![image](https://user-images.githubusercontent.com/101239044/164619606-0ebc7d0c-3862-45cd-ba40-ade06bb3596d.png)|
 
-|codequality|
----|
-|[![C/C++ CI](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml)
+|c++check|codequality|codegrade
+---|---|---|
+|[![C/C++ CI](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml)|![image](https://user-images.githubusercontent.com/101239044/164627460-8f07d30f-b5b6-4d82-a301-e3132bd71330.png)|![image](https://user-images.githubusercontent.com/101239044/164627587-15916c40-6877-48e0-9dab-a0971f11359a.png)
+
+
 
 
 <html>
