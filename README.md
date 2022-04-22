@@ -7,7 +7,7 @@
 
 
 |c++check|codiga|codeac|codacy|
----|---|---|
+---|---|---|---|
 |[![C/C++ CI](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml)|![image](https://user-images.githubusercontent.com/101239044/164627460-8f07d30f-b5b6-4d82-a301-e3132bd71330.png) ![image](https://user-images.githubusercontent.com/101239044/164627587-15916c40-6877-48e0-9dab-a0971f11359a.png)|[![Codeac](https://static.codeac.io/badges/2-483671994.svg "Codeac")](https://app.codeac.io/github/SreeLikitha/M2_TemperatureMonitoringSystem)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5a55545c1086421ebbb63f64ef85e615)](https://www.codacy.com/gh/SreeLikitha/M2_TemperatureMonitoringSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SreeLikitha/M2_TemperatureMonitoringSystem&amp;utm_campaign=Badge_Grade)
 
 
