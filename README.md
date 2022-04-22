@@ -1,7 +1,5 @@
 # M2_TemperatureMonitoringSystem
 
-## Badges
-[![CI](https://github.com/SreeLikitha/M1_C_Project/actions/workflows/main.yml/badge.svg)](https://github.com/SreeLikitha/M1_C_Project/actions/workflows/main.yml)
 
 <html>
 <body>
