@@ -9,6 +9,9 @@
 ---|---|---|---|
 |[![C/C++ CI](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/SreeLikitha/M2_TemperatureMonitoringSystem/actions/workflows/c-build.yml)|![image](https://user-images.githubusercontent.com/101239044/164627460-8f07d30f-b5b6-4d82-a301-e3132bd71330.png)|![image](https://user-images.githubusercontent.com/101239044/164627587-15916c40-6877-48e0-9dab-a0971f11359a.png)|[![Codeac](https://static.codeac.io/badges/2-483671994.svg "Codeac")](https://app.codeac.io/github/SreeLikitha/M2_TemperatureMonitoringSystem)
 
+
+
+
 <html>
 <body>
 <!--StartFragment--><h2 dir="auto" style="box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.5em; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid var(--color-border-muted); color: rgb(201, 209, 217); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(13, 17, 23); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Folder Structure</h2>
